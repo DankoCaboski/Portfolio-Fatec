@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo Willian Danko, tenho 21 anos e sou graduando em banco de dados pela fatec São José dos Campos
+Me chamo Willian Danko, tenho 22 anos e sou graduando em banco de dados pela fatec São José dos Campos
 
 Profissionamelte atuo como programador PLC par a na Axis Solutions.
 
