@@ -206,6 +206,6 @@ O projeto foi dividido em 17 User stories que tinham a função de compartimenta
 
 Fluxo de telas 
 
-![apiBd3](./assets/images/apiBd3.png)
+![apiBd3](./assets/API_BD3/apiBd3.png)
 
 ![usuarios-adm](./assets/images/usuarios-adm.png)
