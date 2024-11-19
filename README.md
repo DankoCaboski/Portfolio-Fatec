@@ -42,8 +42,8 @@ Abaixo, todos os projetos que realizei serão descritos, detalhando a "dor" que 
 
 ## Navegação Entre Projetos :link:
  
-<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/API-BD1"> 1º Semestre: Plataforma de avaliação 360</a></li></p>
-<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/API-BD2"> 2º Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
-<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/API-BD3"> 3° Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
-<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/API-BD4"> 4° Semestre: Plataforma de rastreio de empresas parceiras</a></li></p>
-<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/API-BD5"> 5° Semestre: Plataforma de dashboards online para processos seletivos</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD1.MD"> 1º Semestre: Plataforma de avaliação 360</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD2.MD"> 2º Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD3.MD"> 3° Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD4.MD"> 4° Semestre: Plataforma de rastreio de empresas parceiras</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD5.MD"> 5° Semestre: Plataforma de dashboards online para processos seletivos</a></li></p>
