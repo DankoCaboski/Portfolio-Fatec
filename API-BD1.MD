@@ -14,3 +14,11 @@ O sistema era composto por três categorias de usuários: adminitradores, instru
 
 Na hora da avaliação, um membro do time avaliava os outros membros, respondendo a cinco perguntas, cada uma com cinco opções de resposta. As respostas eram armazenadas em um arquivo de texto, permitindo a geração de relatórios com base nas avaliações realizadas. Um instrutor podia visualizar as avaliações de um aluno e gerar um relatório com as médias das avaliações. 
 Além disso, um instrutor do tipo Fake Client tinha que avaliar seus alunos P.O. e um instrutor do tipo Group Leader tinha que avaliar seus alunos L.T.
+
+## Contribuições Individuais
+
+Atuei como desenvolvedor full-stack, e basedo nisso, sequea lista de algumas de minhas contribuições para o projeto:
+
+- Sistema de reinderização das tabelas exibidas pela aplicação
+- Filtros de classificação e ordenação
+- Funções de validação de login e cadastro
