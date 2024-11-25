@@ -16,3 +16,10 @@ Em parceria com a empresa Oracle, desenvolvemos uma plataforma de web que permit
 A aplicação teve seu back-end desenvolvido em Java, utilizando o framework Spring Boot e o banco de dados Mysql. Para o front-end, foi utilizado o Vue.js.
 
 A empresa parceira possuía dificuldades no controle e gestão das empresas parceiras, possuindo pouca visibilidade dos dados e processos relacionados a essas empresas. A aplicação desenvolvida por nós permitiu a centralização das informações, facilitando o cadastro, atualização e consulta das empresas parceiras, além da visualização gráfica dessas informações.
+
+## Contribuições Individuais
+
+- Implementação de DTOs para manipular o payload das requisições
+- Implementação de JWT no back-end e no front-end
+- Implementação de testes unitários para avaliação de code coverage
+- Melhorias voltadas a legibilidade do código
