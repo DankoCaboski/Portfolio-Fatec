@@ -4,9 +4,14 @@
 
 ## Introdução
 
-Olá, sejam todos bem-vindos. Sou o Danko Caboski, estudante de Banco de Dados na Fatec Professor Jessen Vidal.
+Olá, sejam bem-vindos.
 
-Tenho 22 anos e trabalho como analista de automação na Axis Solutions, especializada no fornecimento de serviços de Automação Industrial e Tecnologia da Informação. <br/>
+Sou Willian Danko Leite Caboski, estudante do 6.º semestre de Banco de Dados na **Fatec Professor Jessen Vidal**.
+
+Tenho 24 anos e atuo como analista de suporte e manutenção na [Geopeixel](https://geopixel.com.br/), empresa especializada no desenvolvimento de software para prefeituras e no processamento de arquivos GIS.
+
+Atuei anteriormente na área industrial e optei por me especializar em TI para aprimorar minha atuação profissional e conquistar oportunidades em projetos que integrem automação industrial, programação, gestão e análise de dados e inteligência artificial. Meu objetivo é tornar‑me referência no desenvolvimento de soluções alinhadas à Indústria 4.0. Planejo ingressar na pós-graduação "Inteligência Artificial Aplicada a Processos Industriais", oferecida pela PUC Minas como proximo passo na minha carreira profissional.
+
 
 <img src ="https://avatars.githubusercontent.com/u/109988937?s=400&u=e3bd18e94a397d8ec6c103dda81ad3084039156a&v=4" width="300"/>
 
@@ -14,18 +19,21 @@ Tenho 22 anos e trabalho como analista de automação na Axis Solutions, especia
 
 ## Meus Principais Conhecimentos
 
-### Spring Boot 
-Java, junto a seu popular framework Spring Boot tem sido uma das tecnologias que mais tenho estudado por interesse, após uma breve introdução no 4º semestre do curso ao qual esse portifolio se dedica.
+### Spring Boot
+
+Estudo Java e o framework Spring Boot desde uma introdução no 4.º semestre do curso. Desde então, venho aprofundando conhecimentos em desenvolvimento backend com Spring Boot, incluindo construção de APIs REST, integração com bancos de dados e testes automatizados.
 
 ### STL e SCL
-STL e SCL são exemplos de linguagens de texto estruturado dedicadas a automação industrial, que podem ser empregadas em uma infinidade de projetos com as mais deferentes finalidades, e justamente pela área de atuação da empresa onde trabalho, tenho me voltado a essas tecnologias para me desenvolver profissionalmente.
 
-### Python & Javascript e RPA
-Esporadicamente tenho recorrido a javascript e python para desenvolver algumas soluções de RPA (Robotic Process Automation) afim de automatizar algumas tarefas manuais de minha vida profissional, por exemplo, um sistema de configuração automatica de repositórios e documentos para novos projetos.
+STL e SCL são linguagens de texto estruturado usadas na programação de CLPs (controladores lógicos programáveis). Aplicam-se a projetos de automação industrial para controlar processos e equipamentos. Devido à minha experiência na área industrial, venho me dedicando ao estudo dessas linguagens para aprimorar minhas competências em automação.
+
+### Python, JavaScript e RPA
+
+Utilizo Python e JavaScript para desenvolver soluções de RPA (Robotic Process Automation) que automatizam tarefas repetitivas. Exemplos incluem scripts para configuração de repositórios e documentos em novos projetos e rotinas de validação de metadados em bases de clientes.
 
 ### SQL
-<p style="text-align: justify;">
-Minha atuação mais constante durante os semestres foi com o desenvolvimento do banco de dados das aplicações, principalmente a partir do segundo semestre, que foi utilizado o primeiro SGBD PostgreSQL, e a partir dele foi sendo utilizado cada vez mais outros SGBDs como o Oracle. Além de usar de forma corriquei no trabalho os SGBDs MySql e Microsoft SqlServer</p>
+
+Ao longo da minha carreira, trabalhei principalmente com PostgreSQL, realizando manipulação e análise de dados de clientes. Na minha posição atual, construo relatórios e dashboards que cruzam informações espaciais, temporais e tabulares. Também possuo experiência com MySQL, Microsoft SQL Server e Oracle.
 
 ## Projetos integradores
 
@@ -40,7 +48,7 @@ Abaixo, todos os projetos que realizei serão descritos, detalhando a "dor" que 
 - [LinkedIn](https://www.linkedin.com/in/willian-caboski/)
 - [GitHub](https://github.com/DankoCaboski)
 
-## Navegação Entre Projetos :link:
+## Navegação Entre Projetos:
  
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD1.MD"> 1º Semestre: Plataforma de avaliação 360</a></li></p>
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD2.MD"> 2º Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
