@@ -55,3 +55,4 @@ Abaixo, todos os projetos que realizei serão descritos, detalhando a "dor" que 
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD3.MD"> 3° Semestre: Sistema de lançamento de horas extras e gestão de mão de obra</a></li></p>
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD4.MD"> 4° Semestre: Plataforma de rastreio de empresas parceiras</a></li></p>
 <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD5.MD"> 5° Semestre: Plataforma de dashboards online para processos seletivos</a></li></p>
+<p align="justify" style="font-family:roboto;"><li><a href="https://github.com/DankoCaboski/Portfolio-Fatec/blob/master/API-BD6.MD"> 6° Semestre: Sistema de Análise de Dados KPI Cards</a></li></p>
