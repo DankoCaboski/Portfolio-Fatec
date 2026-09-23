@@ -6,11 +6,11 @@ Profissionalmente atuo como programador PLC na Axis Solutions.
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willian-danko-leite-caboski-5410741b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DankoCaboski)
 
-## Projeto: Avaliação Democratizada
+# Projeto: Avaliação Democratizada
 
 ## Resumo do projeto
 
-Este projeto foi desenvolvido tendo como cliente a própria FATEC São José dos Campos. O objetivo era criar uma aplicação que permitisse que os membros da instituição avaliassem reciprocamente o desempenho de seus colegas em um processo de avaliação 360º.
+Este projeto foi desenvolvido tendo como cliente a própria FATEC São José dos Campos. O objetivo era criar uma aplicação que permitisse que os membros da instituição hipotética, a **PBLTeX**, avaliassem reciprocamente o desempenho de seus colegas em um processo de avaliação 360º.
 
 Para muitos membros da equipe, esse foi o primeiro contato com a metodologia ágil. A fim de auxiliar os alunos nesse processo, a FATEC disponibilizou um professor para atuar como cliente e outros dois como orientadores Scrum, garantindo uma experiência o mais próxima possível de uma aplicação prática da metodologia Scrum.
 
@@ -22,6 +22,11 @@ O sistema era composto por três categorias de usuários: administradores, instr
 
 Na hora da avaliação, um membro do time avaliava os outros membros, respondendo a cinco perguntas, cada uma com cinco opções de resposta. As respostas eram armazenadas em um arquivo de texto, permitindo a geração de relatórios com base nas avaliações realizadas. Um instrutor podia visualizar as avaliações de um aluno e gerar um relatório com as médias das avaliações. 
 Além disso, um instrutor do tipo Fake Client avaliava os alunos que atuavam como Product Owner (PO), e um instrutor do tipo Group Leader avaliava os alunos que atuavam como Líder Técnico (LT).
+
+## Uma visita ao projeto
+Abaixo podemos vazer uma breve visita ao [repositório do projeto](https://github.com/DankoCaboski/API-BD1)
+
+![usuarios-adm](./assets/API_BD1/membros_API_BD3.png)
 
 ## Contribuições pessoais
 
