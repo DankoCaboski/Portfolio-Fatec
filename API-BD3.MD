@@ -7,11 +7,15 @@ Profissionamelte atuo como programador PLC par a na Axis Solutions.
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willian-danko-leite-caboski-5410741b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DankoCaboski)
 
 
-# Gestão de horas laborais
+# Projeto: Gestão de horas laborais
 
-Esse portifólio foi construido com base nos registros presentes no [repositório](https://github.com/codecatss/API-BD3?tab=readme-ov-file#sobre) do GitHub onde esse projeto foi desenvolvido. Resumidamente esse projeto tem por objetivo o desenvolvimente de um sistema para a __gestão de horas__ de uma empresa.
+A 2RPnet é uma empresa brasileira de tecnologia com mais de 20 anos de experiência em meios de pagamento, soluções antifraude e análise de dados, destacando-se por soluções inovadoras e serviços de alta qualidade em TI.
 
-O sistema foi pensado para ter a possibilidade de poder centralizar o lançamento de horas trabalhadas dos funcionários daquela empresa. Os funcionarios dentro do sistema tem a possibilidade de centralizar o lançamento de suas horas trabalhadas e também monitorar o status de seus lançamentos. Os gestores podem fazer a gestão dos menbros de suas equipes, desde a inclusão e exclusão de membros as equipes, além de poder exportar relatórios sobre suas equipes. Já os administradores representavam o cargo de usário master no sistema, podendo fazer a demissão dos funcionarios e o controle dos gestores.
+Em detrimento de suas demandas internas por uma melhor gestão dos colaboradores alocados em diferentes projetos e necessitando de uma melhor gestão dos mesmos, a empresa nos contatou, interessada em desenvolver uma solução que possibilitasse centralizar o lançamento de horas trabalhadas dos membros da empresa.
+
+Graças o desenvolvimento tecnico apresentado pelos alunso e ao forte alinhamento do projeto apresentado pelo, nos foi proposto como projeto integrador para o 3° semestre, uma atualização total desse projeto, onde foram implementadas diversas melhorias e uma migração para web app foi aplicada.
+
+Os usuários do sistema têm a possibilidade de centralizar o lançamento de suas horas trabalhadas e fazer a gestão de suas cargas de trabalho. Os gestores de cada equipe podem fazer a análise baseada nos membros de suas equipes, como a construção de relatórios, além de também poder gerenciar o acesso de seus liderados. Já os administradores representavam o cargo de usuário master no sistema, podendo fazer a demissão dos funcionários e o controle dos gestores.
 
 ## Tecnologias Utilizadas
 
