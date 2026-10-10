@@ -58,6 +58,8 @@ Abaixo, todos os projetos que realizei serão descritos, detalhando a "dor" que 
 
 ## Projeto: Avaliação Democratizada
 
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/DankoCaboski/API-BD1)
+
 
 ### Resumo do projeto
 
@@ -65,21 +67,18 @@ Este projeto foi desenvolvido tendo como cliente a própria FATEC São José dos
 
 Para muitos membros da equipe, esse foi o primeiro contato com a metodologia ágil. A fim de auxiliar os alunos nesse processo, a FATEC disponibilizou um professor para atuar como cliente e outros dois como orientadores Scrum, garantindo uma experiência o mais próxima possível de uma aplicação prática da metodologia Scrum.
 
-## Tecnologias adotadas
+### Tecnologias adotadas
 A aplicação foi desenvolvida em Python, sem interface gráfica e sem banco de dados; todos os dados eram armazenados e manipulados em memória durante a execução.
 
-## Projeto em funcionamento
+### Projeto em funcionamento
 O sistema era composto por três categorias de usuários: administradores, instrutores e alunos. Além disso, o sistema era dividido em turmas, formadas por alunos e instrutores. Para cada turma, um instrutor poderia atuar como Fake Client ou como Group Leader. Dentro de uma mesma turma, os alunos eram divididos em times, formados por um Líder Técnico, um Product Owner e demais membros.
 
 Na hora da avaliação, um membro do time avaliava os outros membros, respondendo a cinco perguntas, cada uma com cinco opções de resposta. As respostas eram armazenadas em um arquivo de texto, permitindo a geração de relatórios com base nas avaliações realizadas. Um instrutor podia visualizar as avaliações de um aluno e gerar um relatório com as médias das avaliações. 
 Além disso, um instrutor do tipo Fake Client avaliava os alunos que atuavam como Product Owner (PO), e um instrutor do tipo Group Leader avaliava os alunos que atuavam como Líder Técnico (LT).
 
-## Uma visita ao projeto
-Abaixo podemos vazer uma breve visita ao [repositório do projeto](https://github.com/DankoCaboski/API-BD1)
-
 ![usuarios-adm](./assets/API_BD1/membros_API_BD3.png)
 
-## Contribuições pessoais
+### Contribuições pessoais
 
 Atuei como desenvolvedor, focado em implementar novas funcionalidades e otimizar o código-fonte do projeto.
 
@@ -101,11 +100,13 @@ Também tive a oportunidade de aprender a implementar validações condicionais,
 Durante o desenvolvimento de tarefas relacionadas à chamada de alunos para a avaliação, pude aprender a utilizar funcionalidades built-in do Python para tratar strings em memória.
 </details>
 
-# 2° semestre
-
 <br>
 
+# 2° semestre
+
 ## Projeto: Gestão de horas laborais
+
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/codecatss/API-BD2)
 
 
 ### Resumo do projeto
@@ -116,13 +117,13 @@ Em detrimento de suas demandas internas por uma melhor gestão dos colaboradores
 
 Os usuários do sistema têm a possibilidade de centralizar o lançamento de suas horas trabalhadas e fazer a gestão de suas cargas de trabalho. Os gestores de cada equipe podem fazer a análise baseada nos membros de suas equipes, como a construção de relatórios, além de também poder gerenciar o acesso de seus liderados. Já os administradores representavam o cargo de usuário master no sistema, podendo fazer a demissão dos funcionários e o controle dos gestores.
 
-## Tecnologias adotadas
+### Tecnologias adotadas
 
 O projeto foi inteiramente construído em Java, fazendo uso do framework **JavaFX** para a construção da interface gráfica.
 
 A implementação do JavaFX foi uma demanda técnica solicitada pela FATEC, com o objetivo de garantir o contato de todos os alunos com essa linguagem de programação, que é uma das primeiras apresentadas no curso.
 
-## Projeto em funcionamento
+### Projeto em funcionamento
 A aplicação possuía três fluxos de uso diferentes, sendo todos disparados após o login no sistema, de acordo com o perfil do usuário em questão.
 
 Quando o usuário logado for um colaborador, sua tela de início contém seu espelho de horas trabalhadas no mês e um botão que dispara um modal para a entrada de novos registros.
@@ -135,11 +136,7 @@ O último nível de acesso, e o de maior importância, é o de administrador. Ne
 ![usuarios-adm](./assets/API_BD2/image.png)
 
 
-## Uma visita ao projeto
-Mais informações podem ser encontradas no seguinte [repositorio](https://github.com/codecatss/API-BD2).
-
-
-## Contribuições Pessoais
+### Contribuições pessoais
 Durante o desenvolvimento deste projeto, fui responsável pela elaboração dos arquivos que constituíam a estrutura básica das interfaces visuais, assegurando que cada componente estivesse otimizado para uma navegação intuitiva e eficiente. Além disso, trabalhei na implementação dos handlers, permitindo uma resposta ágil e funcionalidade precisa para interações do usuário, o que contribuiu para a estabilidade e a experiência do projeto como um todo.
 
 <details>
@@ -158,10 +155,12 @@ Também participei da implementação dos handlers, que permitiram controlar as 
 
 # 3° semestre
 
-<br>
-
 ## Projeto: Gestão de horas laborais
 
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://example.com)
+
+
+### Resumo do projeto
 
 A 2RPnet é uma empresa brasileira de tecnologia com mais de 20 anos de experiência em meios de pagamento, soluções antifraude e análise de dados, destacando-se por soluções inovadoras e serviços de alta qualidade em TI.
 
@@ -171,9 +170,9 @@ Graças o desenvolvimento tecnico apresentado pelos alunso e ao forte alinhament
 
 Os usuários do sistema têm a possibilidade de centralizar o lançamento de suas horas trabalhadas e fazer a gestão de suas cargas de trabalho. Os gestores de cada equipe podem fazer a análise baseada nos membros de suas equipes, como a construção de relatórios, além de também poder gerenciar o acesso de seus liderados. Já os administradores representavam o cargo de usuário master no sistema, podendo fazer a demissão dos funcionários e o controle dos gestores.
 
-## Tecnologias Utilizadas
+### Tecnologias adotadas
 
-### Tecnologias 
+#### Tecnologias 
 
 - Spring Boot
 - Hibernate
@@ -181,17 +180,17 @@ Os usuários do sistema têm a possibilidade de centralizar o lançamento de sua
 - Dbever      
 - PostgreSQL  
  
-### Linguagens
+#### Linguagens
 
 - Java
 - Javascript
 - HTML & CSS
 
-#### Sobre a empresa
+### Sobre a empresa
 
 A empresa parceira desse projeto foi a 2RP, uma software house voltada para investigação de fraudes bancarioas em canais digitais e auditoria.
 
-## Contribuições Pessoais
+### Contribuições pessoais
 Durante o desenvolvimento deste projeto, fui responsável pela otimização das chamadas ao backend e ao banco de dados, resultando em tempos de carregamento e respostas mais rápidos. Além disso, contribuí para o planejamento da arquitetura do lado do servidor, tornando o projeto mais escalável e seguro. Também participei do desenvolvimento de funcionalidades como a gestão de equipes, extração de relatórios e o lançamento de horas extras pelos colaboradores.
 
 Os imapactosde minhas contribuições podem ser resumidos no tópicos a seguir:
@@ -202,7 +201,7 @@ Os imapactosde minhas contribuições podem ser resumidos no tópicos a seguir:
 - Redução do trafego de dados em requisições do frontend
 - Implementação de regras de negócio no client side para redução de tempo de resposta
 
-## Hard Skills Desenvolvidas
+### Hard Skills desenvolvidas
 As habilidades técnicas desenvolvidas em consequencia desse projeto foram várias, mas as mais evidentes foram as relacionadas a tratativa de dados e a implementação de regras de negócios do sistema 
 
 - Data Transfer Object & ORM
@@ -212,7 +211,7 @@ As habilidades técnicas desenvolvidas em consequencia desse projeto foram vári
 
 Essas atvidades me permitiram desenvolver minhas habilidades tecnicas, podendendo colocar em pratica conseitos e teorias que foram de grande valor para o enriquecimento de meu portifólio. 
 
-# Backlog do produto
+### Backlog do produto
 
 A aplicação foi triunfalmente entregue após 84 dias, sendo divida em 4 sprints de 21 dias.
 A metodologia scrum foi implementada no desenvolvimeto desse projeto, seguindo uma tendencia de mercado, uma vez que essa modelo é amplamente usada no hambiente comercial.
@@ -360,7 +359,7 @@ O projeto foi dividido em 17 User stories que tinham a função de compartimenta
   </tbody>
 </table>
 
-## Sobre o projeto
+### Sobre o projeto
 
 Fluxo de telas 
 
@@ -368,12 +367,15 @@ Fluxo de telas
 
 ![usuarios-adm](./assets/images/usuarios-adm.png)
 
+<br>
 
 # 4° semestre
 
-<br>
-
 ## Projeto: Oracle Partner Tracker
+
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/codecatss/API-BD4)
+
+### Resumo do projeto
 
 
 Esse portifólio foi construido com base nos registros presentes no [repositório](https://github.com/codecatss/API-BD4) do GitHub onde esse projeto foi desenvolvido. Resumidamente esse projeto tem por objetivo o desenvolvimente de um sistema para a __rastreio de empresas parceiras__ para a Oracle.
@@ -383,18 +385,22 @@ A aplicação teve seu back-end desenvolvido em Java, utilizando o framework Spr
 
 A empresa parceira possuía dificuldades no controle e gestão das empresas parceiras, possuindo pouca visibilidade dos dados e processos relacionados a essas empresas. A aplicação desenvolvida por nós permitiu a centralização das informações, facilitando o cadastro, atualização e consulta das empresas parceiras, além da visualização gráfica dessas informações.
 
-## Contribuições Individuais
+### Contribuições pessoais
 
 - Implementação de DTOs para manipular o payload das requisições
 - Implementação de JWT no back-end e no front-end
 - Implementação de testes unitários para avaliação de code coverage
 - Melhorias voltadas a legibilidade do código
 
-# 5° semestre
-
 <br>
 
+# 5° semestre
+
 ## Projeto: DataViz para processos de recrutamento e processo Seletivo
+
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://example.com)
+
+### Resumo do projeto
 
 Unir estratégia de mercado, tecnologia, IA e automação de processos para transformar desafios em resultados é a missão da [Pro4Tech](https://pro4tech.com.br/), empresa parceira da Fatec no API do 5° semestre.
 
@@ -402,19 +408,17 @@ A empresa nos contextualizou sobre algumas dificuldades que enfrentava para acom
 
 O objetivo do projeto foi propor uma plataforma que permitisse apresentar dashboards interativos e configuraveis para centralizar e visualizar dados referentes ao processo de recrutamento e seleção de da empresa. A plataforma permitia uma análise em tempo real de métricas como número de candidatos, tempo médio do processo de contratação, custos envolvidos e turnover. O sistema proposto era capaz de gerar relatórios e painéis dinâmicos para apoias decisões estratégicas. Além disso, os usuários poderão personalizar relatórios conforme suas necessidades, filtrando informações por critérios relevantes. A ferramenta visa otimizar o processo de recrutamento, identificando padrões e tendências para melhorar a eficiência e alocação de recursos.
 
-## Tecnologias adotadas
+### Tecnologias adotadas
 
 Foi opitado por desenvolver a aplicação em uma arquitetura cliente-servidor, composta por um frontend webapp desenvolvido em Vue.js e um backend monolítico construido com Java e SpringBoot. Apersistência dos dados foi feita em uma instancia MySQL e processamento distribuído de dados utilizando Apache Spark. A aplicação foi conteinerizada com Docker para garantir o melhor alinhaento possivel com às práticas de CI/CD e DevOps adotadas pela equipe .
 
-## Contribuições Pessoais
+### Contribuições pessoais
 
 Atuei no desenvolvimento desse projeto como pruduct owner (PO) e tive um contato direto com o cliente, sendo responsavel compreender as necessidades do cliente e traduzir suas demandas de forma clara e detalhada à equipe de desenvolvimento, assim como alinhar gerir as limitações tecnicas da equipe e garantir um alinhamento entre a espectativa do cliente e o produto final entregue. 
 
-
+<br>
 
 # 6° semestre
-
-<br>
 
 ## Projeto: Sistema de Análise de Dados KPI Cards
 
@@ -503,7 +507,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 <p align="justify"><b>Scrum Master (JIRA) e GitHub:</b> A partir da segunda sprint assumi a responsabilidade de organizar as atividades da equipe, acompanhar o andamento das entregas e realizar o Code Review das Pull Requests em todos os repositórios do projeto. Essa experiência desenvolveu minha capacidade de liderança, organização e colaboração em projetos utilizando controle de versão.</p>
 
-### ETL, Inteligência Artificial e LGPD:
+#### ETL, Inteligência Artificial e LGPD:
 
 <p align="justify">Os requisitos envolvendo ETL, Inteligência Artificial e LGPD representaram os principais desafios técnicos deste semestre. Participar da construção do processo de ETL, compreender a utilização do MongoDB como destino dos dados, acompanhar a implementação das previsões utilizando Inteligência Artificial e aplicar conceitos da LGPD ampliaram significativamente minha visão sobre engenharia de dados, segurança da informação e desenvolvimento de soluções voltadas ao ambiente corporativo.</p>
 
@@ -531,4 +535,3 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 <p align="justify">Esta API representou um grande passo no meu desenvolvimento acadêmico e profissional. Trabalhar com tecnologias como MongoDB, ETL, Docker e Inteligência Artificial ampliou minha visão sobre como dados podem ser transformados em informações estratégicas para apoiar a tomada de decisões. Além do aprendizado técnico, assumir a responsabilidade de conduzir a equipe como Scrum Master tornou a experiência ainda mais desafiadora e enriquecedora, fortalecendo habilidades de liderança, comunicação e organização. Finalizo este projeto com a sensação de ter evoluído tanto tecnicamente quanto na forma de atuar em equipe e enfrentar desafios reais de desenvolvimento.</p>
 
-</details>
