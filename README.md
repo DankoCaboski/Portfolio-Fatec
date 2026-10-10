@@ -60,6 +60,7 @@ Abaixo, todos os projetos que realizei serão descritos, detalhando a "dor" que 
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/DankoCaboski/API-BD1)
 
+Parceiro Acadêmico: FATEC São José dos Campos.
 
 ### Resumo do projeto
 
@@ -82,6 +83,12 @@ Além disso, um instrutor do tipo Fake Client avaliava os alunos que atuavam com
 
 Atuei como desenvolvedor, focado em implementar novas funcionalidades e otimizar o código-fonte do projeto.
 
+<p align="justify">Durante este projeto, meus principais desafios foram:</p>
+
+- <p align="justify">Ter o primeiro contato com a metodologia ágil Scrum.</p>
+- <p align="justify">Aprender a lógica de programação e a sintaxe do Python.</p>
+- <p align="justify">Implementar as regras de negócio da avaliação 360º sem o apoio de um banco de dados.</p>
+
 <details>
 <summary>Arrays e tuplas</summary>
 
@@ -100,6 +107,24 @@ Também tive a oportunidade de aprender a implementar validações condicionais,
 Durante o desenvolvimento de tarefas relacionadas à chamada de alunos para a avaliação, pude aprender a utilizar funcionalidades built-in do Python para tratar strings em memória.
 </details>
 
+### Aprendizados efetivos
+
+#### Hard Skills:
+
+- <p align="justify"><b>Python:</b> Uso com ajuda: construção de funcionalidades da aplicação, manipulação de listas, tuplas e strings em memória.</p>
+- <p align="justify"><b>Validações condicionais:</b> Uso com ajuda: implementação de regras de negócio como limitações nas perguntas e melhoria dos laços de chamada dos candidatos.</p>
+- <p align="justify"><b>Scrum:</b> Uso com ajuda: primeiro contato com a metodologia ágil, com acompanhamento de professores orientadores.</p>
+
+#### Soft Skills:
+
+- <p align="justify"><b>Trabalho em equipe:</b> Primeira experiência de desenvolvimento colaborativo, dividindo tarefas com os demais integrantes do time.</p>
+- <p align="justify"><b>Comunicação:</b> Alinhamento constante com o professor que atuava como cliente para validar as entregas.</p>
+- <p align="justify"><b>Aprendizado Contínuo:</b> Adaptação rápida a uma linguagem e a uma metodologia até então desconhecidas.</p>
+
+### Conclusão
+
+<p align="justify">Este projeto marcou o início da minha jornada acadêmica e foi meu primeiro contato com a metodologia Scrum e com o desenvolvimento em equipe. Mesmo sem interface gráfica ou banco de dados, a experiência construiu a base de lógica de programação sobre a qual todos os projetos seguintes foram desenvolvidos.</p>
+
 <br>
 
 # 2° semestre
@@ -108,6 +133,7 @@ Durante o desenvolvimento de tarefas relacionadas à chamada de alunos para a av
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/codecatss/API-BD2)
 
+Parceiro Acadêmico: [2RPnet](https://www.2rpnet.com/).
 
 ### Resumo do projeto
 
@@ -151,6 +177,30 @@ Fui responsável por criar e organizar os arquivos que compunham a base das tela
 Também participei da implementação dos handlers, que permitiram controlar as ações do sistema em resposta às interações do usuário. Com isso, foi possível tornar o fluxo da aplicação mais funcional, reduzir problemas de comportamento e melhorar a estabilidade das telas e dos processos internos do software.
 </details>
 
+<p align="justify">Durante este projeto, meus principais desafios foram:</p>
+
+- <p align="justify">Aprender Java e o JavaFX, uma linguagem e uma biblioteca novas para mim.</p>
+- <p align="justify">Manter a uniformidade visual entre as telas dos três perfis de usuário.</p>
+- <p align="justify">Conectar as telas às regras de negócio por meio dos handlers.</p>
+
+### Aprendizados efetivos
+
+#### Hard Skills:
+
+- <p align="justify"><b>Java e JavaFX:</b> Uso com ajuda: construção das interfaces gráficas e dos handlers de interação do usuário.</p>
+- <p align="justify"><b>Programação orientada a objetos:</b> Uso com ajuda: organização do código em classes e componentes reutilizáveis.</p>
+- <p align="justify"><b>Git e GitHub:</b> Uso com ajuda: versionamento e integração do código desenvolvido pela equipe.</p>
+
+#### Soft Skills:
+
+- <p align="justify"><b>Trabalho em equipe:</b> Divisão de responsabilidades entre telas, regras de negócio e persistência de dados.</p>
+- <p align="justify"><b>Comunicação:</b> Alinhamento com o cliente para entender o fluxo de lançamento de horas de cada perfil.</p>
+- <p align="justify"><b>Organização:</b> Padronização das telas e dos arquivos para facilitar a manutenção do projeto.</p>
+
+### Conclusão
+
+<p align="justify">O projeto da 2RPnet foi meu primeiro contato com o desenvolvimento de uma aplicação com interface gráfica voltada a um cliente real. A experiência fortaleceu minha base em Java e orientação a objetos, e abriu caminho para a evolução do mesmo produto no semestre seguinte.</p>
+
 <br>
 
 # 3° semestre
@@ -159,6 +209,7 @@ Também participei da implementação dos handlers, que permitiram controlar as 
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://example.com)
 
+Parceiro Acadêmico: [2RP](https://www.2rpnet.com/).
 
 ### Resumo do projeto
 
@@ -210,6 +261,19 @@ As habilidades técnicas desenvolvidas em consequencia desse projeto foram vári
 - JWT
 
 Essas atvidades me permitiram desenvolver minhas habilidades tecnicas, podendendo colocar em pratica conseitos e teorias que foram de grande valor para o enriquecimento de meu portifólio. 
+
+#### Soft Skills:
+
+- <p align="justify"><b>Comunicação:</b> Alinhamento entre frontend e backend para definir contratos de API e reduzir o tráfego de dados.</p>
+- <p align="justify"><b>Resolução de Problemas:</b> Análise do tempo de resposta das requisições para identificar e corrigir gargalos.</p>
+- <p align="justify"><b>Trabalho em equipe:</b> Desenvolvimento em sprints, com tarefas divididas a partir das User Stories.</p>
+- <p align="justify"><b>Organização:</b> Acompanhamento do backlog e das prioridades definidas ao longo das quatro sprints.</p>
+
+#### Desafios:
+
+- <p align="justify">Otimizar o desempenho das chamadas ao banco de dados.</p>
+- <p align="justify">Migrar uma aplicação desktop para uma aplicação web.</p>
+- <p align="justify">Aplicar autenticação e autorização com Spring Security e JWT.</p>
 
 ### Backlog do produto
 
@@ -367,6 +431,10 @@ Fluxo de telas
 
 ![usuarios-adm](./assets/images/usuarios-adm.png)
 
+### Conclusão
+
+<p align="justify">A evolução do projeto da 2RPnet para uma aplicação web foi uma oportunidade de aplicar, em um produto real, conceitos de arquitetura REST, segurança e otimização de acesso a dados. Foi o semestre em que meu foco passou a ser o backend e o banco de dados, direção que segui nos projetos seguintes.</p>
+
 <br>
 
 # 4° semestre
@@ -374,6 +442,8 @@ Fluxo de telas
 ## Projeto: Oracle Partner Tracker
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/codecatss/API-BD4)
+
+Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 
 ### Resumo do projeto
 
@@ -385,12 +455,52 @@ A aplicação teve seu back-end desenvolvido em Java, utilizando o framework Spr
 
 A empresa parceira possuía dificuldades no controle e gestão das empresas parceiras, possuindo pouca visibilidade dos dados e processos relacionados a essas empresas. A aplicação desenvolvida por nós permitiu a centralização das informações, facilitando o cadastro, atualização e consulta das empresas parceiras, além da visualização gráfica dessas informações.
 
+### Tecnologias adotadas
+
+Frontend: Vue.js
+
+Backend: Java e Spring Boot
+
+Banco de dados: MySQL
+
+### Projeto em funcionamento
+
+- <p align="justify"><b>Frontend:</b> Aplicação web em Vue.js para cadastro, atualização e consulta das empresas parceiras, com visualização gráfica das informações.</p>
+- <p align="justify"><b>Backend:</b> API REST em Java com Spring Boot, responsável pelas regras de negócio e pela comunicação com o banco de dados.</p>
+- <p align="justify"><b>Banco de dados:</b> MySQL, utilizado para centralizar os dados das empresas parceiras.</p>
+- <p align="justify"><b>Segurança:</b> Autenticação e autorização com JWT entre frontend e backend.</p>
+
 ### Contribuições pessoais
 
 - Implementação de DTOs para manipular o payload das requisições
 - Implementação de JWT no back-end e no front-end
 - Implementação de testes unitários para avaliação de code coverage
 - Melhorias voltadas a legibilidade do código
+
+<p align="justify">Durante este projeto, meus principais desafios foram:</p>
+
+- <p align="justify">Integrar a autenticação JWT entre o frontend e o backend.</p>
+- <p align="justify">Escrever testes unitários que trouxessem uma cobertura de código relevante.</p>
+- <p align="justify">Manter a legibilidade do código em um projeto com vários desenvolvedores.</p>
+
+### Aprendizados efetivos
+
+#### Hard Skills:
+
+- <p align="justify"><b>Spring Boot e DTOs:</b> Uso autônomo: modelagem do payload das requisições e organização das camadas da API.</p>
+- <p align="justify"><b>JWT:</b> Uso com ajuda: implementação da autenticação no backend e no frontend.</p>
+- <p align="justify"><b>Testes unitários:</b> Uso com ajuda: criação de testes e análise de code coverage.</p>
+- <p align="justify"><b>MySQL:</b> Uso com ajuda: persistência dos dados das empresas parceiras.</p>
+
+#### Soft Skills:
+
+- <p align="justify"><b>Comunicação:</b> Alinhamento com o cliente e com a equipe para definir os dados de cada empresa parceira.</p>
+- <p align="justify"><b>Trabalho em equipe:</b> Padronização do código para facilitar a revisão e a manutenção.</p>
+- <p align="justify"><b>Resolução de Problemas:</b> Investigação de falhas de integração entre frontend e backend.</p>
+
+### Conclusão
+
+<p align="justify">O projeto com a Oracle consolidou meu conhecimento em Spring Boot e me apresentou a práticas de qualidade de software, como testes unitários e code coverage. Foi também o semestre em que a segurança da aplicação, por meio do JWT e o controle de acesso às rotas, passou a ser uma preocupação central no desenvolvimento.</p>
 
 <br>
 
@@ -399,6 +509,8 @@ A empresa parceira possuía dificuldades no controle e gestão das empresas parc
 ## Projeto: DataViz para processos de recrutamento e processo Seletivo
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://example.com)
+
+Parceiro Acadêmico: [Pro4Tech](https://pro4tech.com.br/).
 
 ### Resumo do projeto
 
@@ -412,9 +524,42 @@ O objetivo do projeto foi propor uma plataforma que permitisse apresentar dashbo
 
 Foi opitado por desenvolver a aplicação em uma arquitetura cliente-servidor, composta por um frontend webapp desenvolvido em Vue.js e um backend monolítico construido com Java e SpringBoot. Apersistência dos dados foi feita em uma instancia MySQL e processamento distribuído de dados utilizando Apache Spark. A aplicação foi conteinerizada com Docker para garantir o melhor alinhaento possivel com às práticas de CI/CD e DevOps adotadas pela equipe .
 
+### Projeto em funcionamento
+
+- <p align="justify"><b>Frontend:</b> Aplicação web em Vue.js com dashboards interativos e configuráveis sobre o processo de recrutamento e seleção.</p>
+- <p align="justify"><b>Backend:</b> Monolito em Java e Spring Boot, responsável pelas regras de negócio e pela geração dos relatórios.</p>
+- <p align="justify"><b>Dados:</b> Persistência em MySQL e processamento distribuído com Apache Spark.</p>
+- <p align="justify"><b>Infraestrutura:</b> Aplicação conteinerizada com Docker, alinhada às práticas de CI/CD e DevOps da equipe.</p>
+
 ### Contribuições pessoais
 
 Atuei no desenvolvimento desse projeto como pruduct owner (PO) e tive um contato direto com o cliente, sendo responsavel compreender as necessidades do cliente e traduzir suas demandas de forma clara e detalhada à equipe de desenvolvimento, assim como alinhar gerir as limitações tecnicas da equipe e garantir um alinhamento entre a espectativa do cliente e o produto final entregue. 
+
+<p align="justify">Durante este projeto, meus principais desafios foram:</p>
+
+- <p align="justify">Traduzir as necessidades do cliente em requisitos claros para a equipe.</p>
+- <p align="justify">Priorizar o backlog de acordo com as limitações técnicas da equipe.</p>
+- <p align="justify">Equilibrar a expectativa do cliente com o que era viável entregar.</p>
+
+### Aprendizados efetivos
+
+#### Hard Skills:
+
+- <p align="justify"><b>Gestão de backlog e requisitos:</b> Uso autônomo: levantamento, escrita e priorização das demandas do cliente.</p>
+- <p align="justify"><b>Vue.js, Spring Boot e MySQL:</b> Uso com ajuda: compreensão da arquitetura cliente-servidor adotada pela equipe.</p>
+- <p align="justify"><b>Apache Spark:</b> Uso com ajuda: compreensão do processamento distribuído dos dados.</p>
+- <p align="justify"><b>Docker:</b> Uso com ajuda: utilização da aplicação conteinerizada no ambiente de desenvolvimento.</p>
+
+#### Soft Skills:
+
+- <p align="justify"><b>Comunicação:</b> Contato direto com o cliente e tradução das demandas para a equipe de desenvolvimento.</p>
+- <p align="justify"><b>Liderança:</b> Condução do alinhamento entre as expectativas do cliente e o trabalho da equipe.</p>
+- <p align="justify"><b>Negociação:</b> Definição de escopo e prioridades diante das limitações técnicas.</p>
+- <p align="justify"><b>Organização:</b> Acompanhamento das entregas e do backlog do produto.</p>
+
+### Conclusão
+
+<p align="justify">Atuar como Product Owner me deu uma visão completa do ciclo de um produto, desde a compreensão da dor do cliente até a entrega. A experiência ampliou minha capacidade de comunicação e de priorização, e me aproximou da área de análise de dados, que se tornou o tema do semestre seguinte.</p>
 
 <br>
 
